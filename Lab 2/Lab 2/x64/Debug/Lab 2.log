@@ -1,0 +1,55 @@
+﻿  Lab 2.cpp
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7): error C2011: 'CProduct': 'class' type redefinition
+  (compiling source file 'Lab%202.cpp')
+      C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7):
+      see declaration of 'CProduct'
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CGrocery.h(7,11): error C2079: 'CGrocery::Products' uses undefined class 'CProduct'
+  (compiling source file 'Lab%202.cpp')
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(61,11): error C2079: 'Product' uses undefined class 'CProduct'
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(124,16): error C2027: use of undefined type 'CProduct'
+      C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7):
+      see declaration of 'CProduct'
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(126,2): error C2065: 'Product': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(126,10): error C2146: syntax error: missing ';' before identifier 'NewItem'
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(126,10): error C2065: 'NewItem': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(130,9): error C2065: 'NewItem': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(140,2): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(140,22): error C2065: 'NewItem': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(144,16): error C2027: use of undefined type 'CProduct'
+      C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7):
+      see declaration of 'CProduct'
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(172,28): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(174,79): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(186,32): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(201,4): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(220,4): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(229,16): error C2027: use of undefined type 'CProduct'
+      C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7):
+      see declaration of 'CProduct'
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(235,22): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(237,3): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(237,24): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(237,45): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(238,18): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(241,37): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(242,47): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(243,18): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(244,52): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(251,16): error C2027: use of undefined type 'CProduct'
+      C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\CProduct.h(5,7):
+      see declaration of 'CProduct'
+  
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(257,2): error C2065: 'Product': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(257,10): error C2146: syntax error: missing ';' before identifier 'DeleteItem'
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(257,10): error C2065: 'DeleteItem': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(258,39): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(270,28): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(272,79): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(287,36): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(288,2): error C2065: 'Inventory': undeclared identifier
+C:\BENG\Term 4\C++\Labs\ELEX 4618 Lab 2(NEW)\Lab 2\Lab 2\Lab 2.cpp(288,18): error C2065: 'Inventory': undeclared identifier
