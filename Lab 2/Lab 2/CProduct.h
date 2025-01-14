@@ -1,25 +1,31 @@
+#ifndef CPRODCUT_H
+#define CPRODCUT_H
+
 #include<iostream>
 #include<string>
-#include <vector>
 
 class CProduct
 {
 public:
-	// Defining Struct for a product
-	struct Product
-	{
-		std::string product_name; // Variable for the product
-		float price = 0; // Variable for pricing
-		float value = 0; // Variable for value of the item
-		int quantity = 0; // Variable for total quantity at the end
-	};
+	// Getters
+	float get_price();
+	float get_value();
+	int get_quantity();
+	std::string get_name();
 
-	// Declaring a global Inventory vector to store Product objects
-	std::vector<Product> Inventory;
+	// Setters
+	void set_price(float price_ip);
+	void set_value(float value_ip);
+	void set_quantity(int quantity_ip);
+	void set_name(std::string name_ip);
 
-	//Declaring Functions
-	void add_product();
-	void edit_product();
-	void print_product();
-	void delete_product();
+private:
+	//Private Variables
+	std::string product_name;
+	float price = 0;
+	float value = 0;
+	int quantity = 0;
+
 };
+
+#endif CPRODCUT_H

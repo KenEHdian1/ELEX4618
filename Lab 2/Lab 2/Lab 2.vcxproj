@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CGrocery.cpp" />
+    <ClCompile Include="CProduct.cpp" />
     <ClCompile Include="Lab 2.cpp" />
   </ItemGroup>
   <ItemGroup>

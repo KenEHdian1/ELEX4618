@@ -18,6 +18,12 @@
     <ClCompile Include="Lab 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CGrocery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CProduct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CProduct.h">
