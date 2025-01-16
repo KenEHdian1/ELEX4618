@@ -1,2 +1,8 @@
-﻿  Lab 2.cpp
+﻿  CGrocery.cpp
+C:\Users\malan\OneDrive\Desktop\ELEX4618\Lab 2\Lab 2\CGrocery.cpp(56,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\malan\OneDrive\Desktop\ELEX4618\Lab 2\Lab 2\CGrocery.cpp(57,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\malan\OneDrive\Desktop\ELEX4618\Lab 2\Lab 2\CGrocery.cpp(71,23): warning C4129: '.': unrecognized character escape sequence
+  CProduct.cpp
+  Lab 2.cpp
+  Generating Code...
   Lab 2.vcxproj -> C:\Users\malan\OneDrive\Desktop\ELEX4618\Lab 2\x64\Debug\Lab 2.exe

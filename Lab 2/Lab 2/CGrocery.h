@@ -9,6 +9,7 @@ class CGrocery //The CGrocery Class
 {
 public:	//Access Specifier 
 	//Declaring Functions
+	void print_menu();
 	void add_product();
 	void edit_product();
 	void print_product();

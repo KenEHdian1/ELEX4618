@@ -4,65 +4,15 @@
 
 #include <iostream>
 #include <string>
-#include "CProduct.h" // Hi git hub test
+#include "CProduct.h" 
 #include "CGrocery.h"
 
-using namespace std;
-bool validInput = false;
 
-//class CProduct
-//{
-//public:
-//	// Defining Struct for a product
-//	struct Product
-//	{
-//		string product_name; // Variable for the product
-//		float price = 0; // Variable for pricing
-//		float value = 0; // Variable for value of the item
-//		int quantity = 0; // Variable for total quantity at the end
-//	};
-//
-//	CGrocery buff;
-//	// Declaring a global Inventory vector to store Product objects
-//	//vector<Product> Inventory;
-//	//^^^ this needs to be in CGrocery and is PRIVATE
-//
-//	//Declaring Functions
-//	void add_product();
-//	void edit_product();
-//	void print_product();
-//	void delete_product();
-//	
-//};
-
-//class CGrocery //The CGrocery Class
-//{
-//public:	//Access Specifier 
-//	void print_menu();	//Method/Function Declaration
-//	vector<CProduct::Product> get_inventory();
-//	void set_inventory(CProduct::Product product_ip);
-//	//Needs to hold a private dynamic vector for all of products "vector method size()"
-//	//Also a function that can save and load the inventory 
-//
-//	// Declaring a global Inventory vector to store Product objects
-//private:
-//	vector<CProduct::Product> Inventory;
-//};
-
-//Print Menu Function
-void print_menu()
-{
-	cout << "****************************************\n";
-	cout << "ELEX 4618 Grocery System, by Ken Malana\n";
-	cout << "****************************************\n";
-	cout << "(A)dd Product\n(E)dit Product\n(D)elete Product\n(P)rint Product\n(S)ave Inventory\n(L)oad Inventory\n(Q)uit\nCMD > ";
-}
-
-
+//BETTER VERSION!
 int main()
 {
 	char command1;
-	string command2;
+	std::string command2;
 
 	CGrocery Inventory;	//Create an object of CGrocery
 	CProduct Product;	//Create an object of CProduct
@@ -70,15 +20,15 @@ int main()
 
 	while (true)
 	{
-		print_menu(); // Calling the print menu fuction 
+		Inventory.print_menu(); // Calling the print menu fuction 
 		do
 		{
-			cin >> command2;
-
+			//std::cin >> command2;
+			std::getline(std::cin, command2);
 			if (command2.length() > 1)
 			{
-				cout << "\nInvalid Input. Please enter exatcly one character: \n\n";
-				print_menu();
+				std::cout << "\nInvalid Input. Please enter exatcly one character: \n\n";
+				Inventory.print_menu();
 			}
 
 		} while (command2.length() != 1);
@@ -107,14 +57,9 @@ int main()
 		}
 		else
 		{
-			cout << "Invalid input, try again. \n\n";
+			std::cout << "Invalid input, try again. \n\n";
 		}
 
 	}
 	return 0;
 }
-
-//////////////////////////////////////////////////////////////////////////////////
-// Functions Below
-//////////////////////////////////////////////////////////////////////////////////
-

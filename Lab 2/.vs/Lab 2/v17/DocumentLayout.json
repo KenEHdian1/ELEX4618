@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\CProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\CGrocery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\Lab 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\CGrocery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\CGrocery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|solutionrelative:Lab 2\\CProduct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3181C09-B67D-4FDB-B61F-535E9CE64270}|Lab 2\\Lab 2.vcxproj|C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,20 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CProduct.cpp",
               "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.cpp",
               "RelativeDocumentMoniker": "Lab 2\\CProduct.cpp",
               "ToolTip": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.cpp",
               "RelativeToolTip": "Lab 2\\CProduct.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-14T03:38:33.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:38:33.429Z"
             },
             {
               "$type": "Document",
@@ -53,36 +52,34 @@
               "RelativeDocumentMoniker": "Lab 2\\CProduct.h",
               "ToolTip": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CProduct.h",
               "RelativeToolTip": "Lab 2\\CProduct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-14T03:22:13.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:22:13.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CGrocery.cpp",
               "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.cpp",
               "RelativeDocumentMoniker": "Lab 2\\CGrocery.cpp",
               "ToolTip": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.cpp",
               "RelativeToolTip": "Lab 2\\CGrocery.cpp",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-14T03:37:17.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CGrocery.h",
               "DocumentMoniker": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.h",
               "RelativeDocumentMoniker": "Lab 2\\CGrocery.h",
               "ToolTip": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\CGrocery.h",
               "RelativeToolTip": "Lab 2\\CGrocery.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-14T03:22:08.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T03:22:08.537Z"
             },
             {
               "$type": "Document",
@@ -92,10 +89,9 @@
               "RelativeDocumentMoniker": "Lab 2\\Lab 2.cpp",
               "ToolTip": "C:\\Users\\malan\\OneDrive\\Desktop\\ELEX4618\\Lab 2\\Lab 2\\Lab 2.cpp",
               "RelativeToolTip": "Lab 2\\Lab 2.cpp",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-14T02:37:08.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T02:37:08.374Z"
             }
           ]
         }
