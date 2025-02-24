@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="4618_Template.cpp" />
+    <ClCompile Include="CControl.cpp" />
+    <ClCompile Include="Serial.cpp" />
+    <ClCompile Include="server.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="CBase4618.cpp" />
+    <ClCompile Include="CSnakeGame.cpp" />
+    <ClCompile Include="CSpaceInvadersGame.cpp" />
+    <ClCompile Include="CGameObject.cpp" />
+    <ClCompile Include="CShip.cpp" />
+    <ClCompile Include="CInvader.cpp" />
+    <ClCompile Include="CMissile.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CControl.h" />
+    <ClInclude Include="cvui.h" />
+    <ClInclude Include="Serial.h" />
+    <ClInclude Include="server.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="CBase4618.h" />
+    <ClInclude Include="CSnakeGame.h" />
+    <ClInclude Include="CSpaceInvadersGame.h" />
+    <ClInclude Include="CGameObject.h" />
+    <ClInclude Include="CShip.h" />
+    <ClInclude Include="CInvader.h" />
+    <ClInclude Include="CMissile.h" />
+    <ClInclude Include="E:\1. BENG\BENG STUFF\Term 4\C++ - OOP\Lab 2\Lab 2\resource.h" />
+  </ItemGroup>
+</Project>
