@@ -1,0 +1,16 @@
+all: main
+
+main: main.o CProduct.o CGrocery.o
+	g++ main.o CProduct.o CGrocery.o -o main
+
+main.o: main.cpp
+	g++ -c main.cpp
+
+CProduct.o: CProduct.cpp
+	g++ -c CProduct.cpp
+
+CGrocery.o: CGrocery.cpp
+	g++ -c CGrocery.cpp
+
+clean:
+	rm *o main
